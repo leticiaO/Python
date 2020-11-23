@@ -1,2 +1,2 @@
 # Python
-Só alguns códigos.
+Só alguns códigos em liguagem Python :snake: :computer:
