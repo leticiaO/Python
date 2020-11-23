@@ -1,1 +1,2 @@
 # Python
+Só alguns códigos.
