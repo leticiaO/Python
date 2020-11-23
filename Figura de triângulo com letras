@@ -1,6 +1,6 @@
 linha = int(input("Digite o numero de linhas:"))
 letra= input('Digite uma letra:')
 for i in range(0,linha+1):
-  for j in range (100): # numero máximo de linhas
+  for j in range (100): # número máximo de linhas
     print((i + 1) * f"{letra}")
     break 
